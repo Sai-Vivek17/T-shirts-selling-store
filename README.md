@@ -42,7 +42,7 @@ Managing retail inventory often involves complex SQL queries that can be a barri
    git clone [https://github.com/Sai-Vivek17/T-shirts-selling-store.git](https://github.com/Sai-Vivek17/T-shirts-selling-store.git)
    cd T-shirts-selling-store
 **Sample Questions**
-"How many total T-shirts are left in stock?"
-"Show me the inventory for Nike XS white shirts."
-"What is the total value of the inventory for all 'Small' size T-shirts?"
-"Calculate the total revenue for Adidas shirts after applying active discounts."
+*"How many total T-shirts are left in stock?"*
+*"Show me the inventory for Nike XS white shirts."*
+*"What is the total value of the inventory for all 'Small' size T-shirts?"*
+*"Calculate the total revenue for Adidas shirts after applying active discounts."*
